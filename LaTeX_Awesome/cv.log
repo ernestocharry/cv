@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 MAR 2021 19:40
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  3 MAR 2021 00:58
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1173,7 +1173,7 @@ Here is how much of LuaTeX's memory you used:
  640 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 81 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1199,3:213,4:181,5:467,6:84,7:3650,8:15,9:489,10:26,11:227
+   avail lists: 1:1,2:1199,3:213,4:181,5:472,6:84,7:3677,8:15,9:489,10:26,11:230
 
  49734 multiletter control sequences out of 65536+600000
  117 fonts using 35939963 bytes
@@ -1189,7 +1189,7 @@ t/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf></usr/local/texlive/
 blic/fontawesome/FontAwesome.otf><./fonts/Roboto-Italic.ttf></usr/local/texlive/
 2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./
 fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on cv.pdf (2 pages, 56355 bytes).
+Output written on cv.pdf (2 pages, 56542 bytes).
 
 PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
