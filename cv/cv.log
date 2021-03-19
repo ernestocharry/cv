@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  3 MAR 2021 00:58
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  19 MAR 2021 15:09
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -13,8 +13,8 @@ Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
 Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
 Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
 ig file reader
-luaotfload | conf : Root cache directory is /Users/Feliche/Library/texlive/2020/
-texmf-var/luatex-cache/generic-dev/names.
+luaotfload | conf : Root cache directory is /Users/charrypastrana/Library/texliv
+e/2020/texmf-var/luatex-cache/generic-dev/names.
 luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
 -resolved path “/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/fontl
 oader-2020-01-26.lua”.
@@ -34,8 +34,8 @@ Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
 Lua-only attribute luaotfload_color_attribute = 5
 Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
 s
-luaotfload | conf : Root cache directory is /Users/Feliche/Library/texlive/2020/
-texmf-var/luatex-cache/generic-dev/names.
+luaotfload | conf : Root cache directory is /Users/charrypastrana/Library/texliv
+e/2020/texmf-var/luatex-cache/generic-dev/names.
 Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
 Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
 Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
@@ -77,8 +77,8 @@ Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/Feliche/Library/texlive
-/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
+luaotfload | db : Font names database loaded from /Users/charrypastrana/Library/
+texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \c@part=\count163
 \c@section=\count164
 \c@subsection=\count165
@@ -371,8 +371,8 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
 neric.tex)
-luaotfload | cache : Lookup cache loaded from /Users/Feliche/Library/texlive/202
-0/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /Users/charrypastrana/Library/texl
+ive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
 luaotfload | aux : font no 28 (nil) defines no feature for script latn
 luaotfload | aux : font no 28 (nil) defines no feature for script dflt
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xe
@@ -1173,10 +1173,10 @@ Here is how much of LuaTeX's memory you used:
  640 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 81 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1199,3:213,4:181,5:472,6:84,7:3677,8:15,9:489,10:26,11:230
+   avail lists: 1:1,2:1199,3:213,4:181,5:474,6:84,7:3678,8:15,9:489,10:26,11:230
 
  49734 multiletter control sequences out of 65536+600000
- 117 fonts using 35939963 bytes
+ 117 fonts using 35940251 bytes
  73i,12n,112p,792b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-ma
 th.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmo
@@ -1189,7 +1189,7 @@ t/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf></usr/local/texlive/
 blic/fontawesome/FontAwesome.otf><./fonts/Roboto-Italic.ttf></usr/local/texlive/
 2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./
 fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on cv.pdf (2 pages, 56542 bytes).
+Output written on cv.pdf (2 pages, 56441 bytes).
 
 PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream

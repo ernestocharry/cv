@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  26 FEB 2021 21:00
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  19 MAR 2021 15:09
  restricted system commands enabled.
-**coverletter.tex
-(./coverletter.tex
+**coverletter_loka_202010208.tex
+(./coverletter_loka_202010208.tex
 LaTeX2e <2020-02-02> patch level 5
 Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
 Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
@@ -13,8 +13,8 @@ Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
 Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
 Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
 ig file reader
-luaotfload | conf : Root cache directory is /Users/Feliche/Library/texlive/2020/
-texmf-var/luatex-cache/generic-dev/names.
+luaotfload | conf : Root cache directory is /Users/charrypastrana/Library/texliv
+e/2020/texmf-var/luatex-cache/generic-dev/names.
 luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
 -resolved path “/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/fontl
 oader-2020-01-26.lua”.
@@ -34,8 +34,8 @@ Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
 Lua-only attribute luaotfload_color_attribute = 5
 Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
 s
-luaotfload | conf : Root cache directory is /Users/Feliche/Library/texlive/2020/
-texmf-var/luatex-cache/generic-dev/names.
+luaotfload | conf : Root cache directory is /Users/charrypastrana/Library/texliv
+e/2020/texmf-var/luatex-cache/generic-dev/names.
 Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
 Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
 Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
@@ -77,8 +77,8 @@ Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/Feliche/Library/texlive
-/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
+luaotfload | db : Font names database loaded from /Users/charrypastrana/Library/
+texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \c@part=\count163
 \c@section=\count164
 \c@subsection=\count165
@@ -371,8 +371,8 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
 neric.tex)
-luaotfload | cache : Lookup cache loaded from /Users/Feliche/Library/texlive/202
-0/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /Users/charrypastrana/Library/texl
+ive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
 luaotfload | aux : font no 28 (nil) defines no feature for script latn
 luaotfload | aux : font no 28 (nil) defines no feature for script dflt
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xe
@@ -890,48 +890,49 @@ luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: "File not fou
 nd: fonts/Roboto-Regular.".
 luaotfload | aux : font no 55 (nil) defines no feature for script latn
 luaotfload | aux : font no 60 (nil) defines no feature for script latn) (./cove
-rletter.aux)
-\openout1 = coverletter.aux
+rletter_loka_202010208.aux)
+\openout1 = coverletter_loka_202010208.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 100.
- ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 100.
+(Font)              scaled to size 10.95pt on input line 101.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
 * driver: luatex
-* paper: a4paper
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
-* v-part:(T,H,B)=(22.76228pt, 771.06952pt, 51.21504pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=517.84052pt
-* \textheight=771.06952pt
+* h-part:(L,W,R)=(39.83368pt, 534.62764pt, 39.83368pt)
+* v-part:(T,H,B)=(22.76228pt, 720.99266pt, 51.21504pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=534.62764pt
+* \textheight=720.99266pt
 * \oddsidemargin=-32.43631pt
 * \evensidemargin=-32.43631pt
 * \topmargin=-86.5077pt
@@ -939,7 +940,7 @@ LaTeX Info: Redefining \selectfont on input line 100.
 * \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=14.22636pt
-* \marginparwidth=50.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -975,63 +976,63 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 100.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 100.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 100.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 100.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 100.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 101.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 100.
+(Font)              `operators' in the math version `normal' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input 
-line 100.
+line 101.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 100.
+(Font)              `operators' in the math version `bold' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input
- line 100.
+ line 101.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 100.
+(Font)              `symbols' in the math version `normal' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input
- line 100.
+ line 101.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 100.
+(Font)              `symbols' in the math version `bold' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input
- line 100.
+ line 101.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 10
-0.
+1.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input
- line 100.
+ line 101.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 100.
+(Font)              `largesymbols' in the math version `bold' on input line 101.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input
- line 100.
+ line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 100.
+(Font)              scaled to size 10.95116pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 100.
+(Font)              scaled to size 7.6658pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 100.
+(Font)              scaled to size 5.47559pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 100.
+(Font)              scaled to size 10.94882pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 100.
+(Font)              scaled to size 7.66417pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 100.
+(Font)              scaled to size 5.47441pt on input line 101.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box72
-Package hyperref Info: Link coloring OFF on input line 100.
+Package hyperref Info: Link coloring OFF on input line 101.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1045,142 +1046,150 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count318
 )
-LaTeX Info: Redefining \ref on input line 100.
-LaTeX Info: Redefining \pageref on input line 100.
-LaTeX Info: Redefining \nameref on input line 100.
- (./coverletter.out) (./coverletter.out)
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
+ (./coverletter_loka_202010208.out) (./coverletter_loka_202010208.out)
 \@outlinefile=\write6
 
-\openout6 = coverletter.out
+\openout6 = coverletter_loka_202010208.out
 \headertextwidth=\skip82
 \headerphotowidth=\skip83
 \photodim=\skip84
-<profile.jpg, id=7, 857.604pt x 1291.224pt>
-File: profile.jpg Graphic file (type jpg)
-<use profile.jpg>
-Package luatex.def Info: profile.jpg  used on input line 104.
-(luatex.def)             Requested size: 857.60191pt x 1291.22086pt.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 104.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 104.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 104.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 104.
 
-Overfull \hbox (1.45999pt too wide) in paragraph at lines 104--105
+warning  (file ../common_folder/photos/profile_smile.jpeg) (readjpg): Exif resol
+ution 240dpi x 240dpi differs from the input resolution 72dpi x 72dpi
+<../common_folder/photos/profile_smile.jpeg, id=7, 857.604pt x 857.604pt>
+File: ../common_folder/photos/profile_smile.jpeg Graphic file (type jpg)
+<use ../common_folder/photos/profile_smile.jpeg>
+Package luatex.def Info: ../common_folder/photos/profile_smile.jpeg  used on inp
+ut line 105.
+(luatex.def)             Requested size: 857.60191pt x 857.60191pt.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 105.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
+(Font)              scaled to size 7.6pt on input line 105.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 105.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 105.
+
+Overfull \hbox (1.45999pt too wide) in paragraph at lines 105--106
 []$[]$ $[]$$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 114.
+(Font)              scaled to size 11.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 114.
+(Font)              scaled to size 11.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 114.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/sl' in size <9> not availa
 ble
 (Font)              Font shape `TU/SourceSansPro(3)/m/it' tried instead on input
- line 114.
+ line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 114.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 114.
+(Font)              scaled to size 9.0pt on input line 115.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 114.
+(Font)              scaled to size 10.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 114.
+(Font)              scaled to size 10.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 114.
+(Font)              scaled to size 10.00107pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 114.
+(Font)              scaled to size 7.00075pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 114.
+(Font)              scaled to size 5.00053pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 114.
+(Font)              scaled to size 9.99893pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 114.
+(Font)              scaled to size 6.99925pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 114.
+(Font)              scaled to size 4.99947pt on input line 115.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 121.
+(Font)              scaled to size 14.0pt on input line 122.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 121.
+(Font)              scaled to size 14.0pt on input line 122.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 135.
+(Font)              scaled to size 10.0pt on input line 136.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 135.
+(Font)              scaled to size 10.0pt on input line 136.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/sl' in size <10> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(3)/m/it' tried instead on input
- line 135.
+ line 136.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 135.
+(Font)              scaled to size 10.0pt on input line 136.
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 137.
+(Font)              scaled to size 10.0pt on input line 138.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 137.
+(Font)              scaled to size 8.0pt on input line 138.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 137.
+(Font)              scaled to size 8.0pt on input line 138.
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./profile
-.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
- (./coverletter.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
-Package rerunfilecheck Info: File `coverletter.out' has not changed.
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<../common
+_folder/photos/profile_smile.jpeg
+warning  (readjpg): Exif resolution 240dpi x 240dpi differs from the input resol
+ution 72dpi x 72dpi
+>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+ (./coverletter_loka_202010208.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
+Package rerunfilecheck Info: File `coverletter_loka_202010208.out' has not chang
+ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33251 strings out of 480992
+ 33253 strings out of 480992
  100000,1144653 words of node,token memory allocated
  645 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 82 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:420,3:118,4:58,5:353,6:29,7:2554,8:13,9:151,10:16,11:174
+   avail lists: 1:1,2:420,3:119,4:58,5:378,6:29,7:2715,8:13,9:152,10:20,11:187
  49808 multiletter control sequences out of 65536+600000
- 117 fonts using 34640347 bytes
- 73i,11n,112p,801b,877s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 117 fonts using 34640515 bytes
+ 73i,11n,112p,816b,879s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSan
 sPro-Light.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesa
 nspro/SourceSansPro-Semibold.otf></usr/local/texlive/2020/texmf-dist/fonts/opent
@@ -1191,7 +1200,7 @@ tf><./fonts/Roboto-Regular.ttf></usr/local/texlive/2020/texmf-dist/fonts/opentyp
 e/public/fontawesome/FontAwesome.otf><./fonts/Roboto-Italic.ttf></usr/local/texl
 ive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf
 ><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on coverletter.pdf (1 page, 1418864 bytes).
+Output written on coverletter_loka_202010208.pdf (1 page, 1613418 bytes).
 
 PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
