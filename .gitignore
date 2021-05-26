@@ -1,7 +1,7 @@
 # Hidden CV Latex
-cv/cv/*
-cv/fonts/*
-cv/photos/*
+cv/*
+fonts/*
+photos/*
 awesome-cv.cls
 cv.aux
 cv.log
