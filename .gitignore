@@ -17,6 +17,9 @@ cv.tex
 
 coverletter_loka_202010208.*
 
+.ipynb_checkpoints
+texput.log
+
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
