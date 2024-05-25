@@ -1,3 +1,5 @@
+*.gz
+
 CV_CharryPastrana_FelixErnesto.aux
 CV_CharryPastrana_FelixErnesto.log
 CV_CharryPastrana_FelixErnesto.out
@@ -19,6 +21,7 @@ cv.aux
 cv.log
 cv.out
 cv.tex
+cv.pdf
 
 coverletter_loka_202010208.*
 
