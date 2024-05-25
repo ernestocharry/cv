@@ -1,6 +1,6 @@
 # Curriculum Vitae 🚀
 
-Hello! My name is Félix Ernesto **Charry - Pastrana**. 
+Hello! My name is Félix **Charry**. 
 
 You can find my CV on: 
 _https://github.com/ernestocharry/cv/blob/main/CV_CharryPastrana_FelixErnesto.pdf_
